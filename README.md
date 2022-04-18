@@ -1,2 +1,2 @@
 # desafios-hackerRank
-Repositório criado para armazenamento da resolução de desafios do HackerHank. 
+Repositório criado para armazenamento da resolução de desafios do HackerRank. 
